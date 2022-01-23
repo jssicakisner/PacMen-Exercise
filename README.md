@@ -1,4 +1,4 @@
-# _{Factory for making pacmen}_
+# _Factory for making pacmen_
 
 ## Description
 
